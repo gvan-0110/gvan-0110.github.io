@@ -2,6 +2,25 @@
   border-top: 3px solid var(--color-secondary);
 }
 
+.site-header__container__home {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  max-width: auto;//var(--site-width);
+  margin: 0 auto;
+  padding: 15px;
+  padding-left: 0;
+  background-color: var(--color-secondary);
+}
+
+@media (min-width: 1024px) {
+  .site-header__container__home {
+    padding: 7px 40px 7px;//40px 0;
+    //background-color: var(--color-secondary);
+  }
+}
+
 .site-header__container {
   display: flex;
   flex-wrap: wrap;
