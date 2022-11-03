@@ -15,7 +15,7 @@ eleventyNavigation:
 **Senior Software Engineer** *(2019 - Current)*
 
 * Collaborated with Elon Musk on 80,000 unique projects
-* Invented the Cyber Truck
+* Invented the Cyber Trucker
 
 #### Microsoft
 
