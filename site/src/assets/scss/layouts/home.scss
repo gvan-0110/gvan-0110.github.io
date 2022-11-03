@@ -19,13 +19,13 @@
     display: block;
     position: absolute;
     left: auto;
-    top: 80px;
+    top: 0px;
     right: 0;
     bottom: auto;
-    width: 100%;
+    width: var(--site-width);
     height: 100%;
-    max-height: 60%;
-    max-width: 35%;
+    max-height: 100%;
+    max-width: 50%;
     min-width: 300px;
     border-radius: var(--border-radius);
     background-color: var(--color-bg-accent);
