@@ -1,15 +1,16 @@
 :root {
   /* Brand Colors */
   --color-primary: #222;
-  --color-secondary: #c22f36;//#2f5bc2;
-  --color-thirdary: #681519;//#2f5bc2;
-  --color-quadary: #c46a6e;//#2f5bc2;
+  --color-secondary: #9a4444ff;//#2f5bc2;
+  --color-thirdary: #5b2f2fff;//#2f5bc2;
+  --color-quadary: #e06666ff;//#2f5bc2;
 
   /* Background Colors */
   --color-bg: #fff;
   --color-bg-secondary: #f7f7f7;
-  --color-bg-accent: #c46a6e;//rgb(174, 182, 225);
+  --color-bg-accent: #e06666ff;//rgb(174, 182, 225);
   --color-bg-hover: #f3f4f6cc;
+  --color-bg-dark: #212121ff;
 
   /* Text and Border Colors */
   --color-text: #222;
@@ -31,4 +32,5 @@
   /* Other */
   --border-radius: 12px;
   --border-radius-sm: 5px;
+  --shadow: 0 10px 30px -3px rgb(0 0 0 / 10%), 0 4px 6px -2px rgb(0 0 0 / 5%);
 }

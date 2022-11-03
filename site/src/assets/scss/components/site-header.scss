@@ -12,6 +12,7 @@
   padding: 15px;
   padding-left: 0;
   background-color: var(--color-secondary);
+  box-shadow: var(--shadow);
 }
 
 @media (min-width: 1024px) {
@@ -93,7 +94,7 @@
 @media (min-width: 1024px) {
   .site-header__item {
     margin: 0 15px;
-    font-size: 15px;
+    font-size: 18px;
   }
 }
 

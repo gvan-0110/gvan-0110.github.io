@@ -1,6 +1,7 @@
 {
   "title": "Fernfolio",
+  "statement": "Hi, my name is Garrison",
   "image": "src/assets/img/fern-in-hand.jpeg",
   "image_alt": "Fern in hand",
-  "body": "The super simple portfolio template built with [Eleventy](https://www.11ty.dev/) and [Netlify CMS](https://www.netlifycms.org/)."
+  "body": "I like to code and learn new things about various computer science topics.  I'm currently working in the field of machine learning and artificial intelligence!"
 }
