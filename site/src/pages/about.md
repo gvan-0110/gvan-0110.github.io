@@ -8,16 +8,12 @@ eleventyNavigation:
   key: About
   order: 1
 ---
-#### Why Create This?
+Hello, my name is Garrison.  I am currently studying at Allegheny College with a major in Computer Science.
 
-I wanted to develop a portfolio that was simple, fast, accessible, and can be modified without opening up a code editor.
+The field I am most interested in is machine learning with a focus on data and predictive analytics.
 
-First, I needed a static site generator. This led me to [Eleventy](https://www.11ty.dev/). This project is great because it is is simple, powerful, written in javascript, and framework free.
+Using predictive analytics, I tie my interest in music with machine learning together to more easily be able to analyze songs and melodies.
 
-Next, I wanted auto deployments and a git-powered CMS. [Netlify](https://www.netlify.com/) and their suite of tools seemed perfect.
+When I'm not working on a programming project, I may be found skiing or playing piano in my off time.
 
-I found a few good starter projects using these technologies, but was overall unhappy with the current options. That led me to develop Fernfolio. The goal was not to create a technical masterpiece, but to create a beautiful portfolio with minimal overhead/complexity. Something that just works.
-
-This project is open source so that hopefully someone else can use this as a template (or reference) in building their own site. Technical details can be found on the [Github repo](https://github.com/TylerMRoderick/fernfolio-11ty-template) and some customization instructions can be found [here](/posts/theme-customizations/).
-
-![Fern in Hand](/assets/img/fern-in-hand.jpeg "Fern in Hand")
+If you would like to learn more about what I do, feel free to visit the projects tab in the header above or visit my [LinkedIn](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwje1tLu77f7AhVoFlkFHa8jDlYQFnoECBIQAQ&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fgarrison-vanzin-7760141aa&usg=AOvVaw2YOPMlZPNmqAIbgHhbGOLM) and [GitHub](https://github.com/gvan-0110)!
