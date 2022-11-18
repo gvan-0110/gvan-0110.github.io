@@ -1,7 +1,7 @@
 ---
 section: contact
 layout: contact.njk
-title: Get in touch
+title: Send me a message
 date: 2018-01-01
 permalink: /contact/index.html
 metaDescription: This is a sample meta description. If one is not present in
