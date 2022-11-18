@@ -2,6 +2,10 @@
   border-bottom: 6px solid var(--color-thirdary);
 }
 
+.site-header-normal {
+  border-top: 6px solid var(--color-thirdary);
+}
+
 .site-header__container__home {
   display: flex;
   flex-wrap: wrap;
