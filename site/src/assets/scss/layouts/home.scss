@@ -25,10 +25,12 @@
     width: var(--site-width);
     height: 100%;
     max-height: 100%;
-    max-width: 50%;
+    max-width: 70%;
     min-width: 300px;
-    border-radius: var(--border-radius);
-    background-color: var(--color-bg-accent);
+    //border-radius: var(--border-radius);
+    //background-color: var(--color-bg-accent);
+    background: rgb(2,0,36);
+    background: linear-gradient(145deg, rgba(2,0,36,1) 0%, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 50%, rgba(153,0,0,0.8001400389257265) 95%, rgba(65,0,0,0.9233893386456145) 100%);
     z-index: -4;
   }
 }
@@ -92,6 +94,7 @@
     width: 200px;
     height: 200px;
     border: thick solid white;
+    image-rendering: -webkit-optimize-contrast;
     border-radius: var(--border-radius);
     background-color: var(--color-bg-accent);
     z-index: -2;

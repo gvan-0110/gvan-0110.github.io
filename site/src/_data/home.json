@@ -1,7 +1,9 @@
 {
   "title": "Garrison's Site",
   "statement": "Hi, my name is Garrison",
-  "image": "src/assets/img/fern-in-hand.jpeg",
+  "image": "src/assets/img/upscaled_me.png",
+  "image2": "src/assets/img/plot.png",
+  "image3": "src/assets/img/plot2.webp",
   "image_alt": "Fern in hand",
   "body": "I like to code and learn new things about various computer science topics.  I'm currently working in the field of machine learning and artificial intelligence!"
 }
