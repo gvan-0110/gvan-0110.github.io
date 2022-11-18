@@ -38,7 +38,7 @@ This project should result in a GitHub repository from which to deploy your site
 5. Has a link to the final site and repository included below:
 6. Features a professional `README`, using a short "About Me" statement and other professional links
 
-`TODO: Paste link to final site`
+`https://upgraded-giggle-43d603c8.pages.github.io/`
 
 6. A reflective statement in this repository's `reflection.md` file which addresses:
 
