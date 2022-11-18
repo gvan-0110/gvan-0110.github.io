@@ -12,8 +12,12 @@ tags:
 
 ### Motivation
 
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+Automatic Music Sorting, or AutoMusicSort, came to be from the need for a way to organize songs without the need to manually check each one when doing so.  Normally, when you have a large list of song files, you must listen to each one, and decide which genre it might fall under.
+
+The issue with this approach however, is that this takes a very long time to do.  Not only that, but there are many genres, around 1000, so splitting a list of songs into these genres would be hard without extensive knowledge.
 
 ### Solution
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+This is where AutoMusicSort comes in.  Rather than manually sorting songs, the algorithm takes the list of music and scans each song, putting them into categories based on how similar they are to eachother.
+
+If you would like to take a look at the project, feel free to browse it on [GitHub](https://github.com/ReadyResearchers/AutoMusicSort)!

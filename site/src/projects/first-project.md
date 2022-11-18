@@ -9,10 +9,10 @@ tags:
   - data
 ---
 
-### Task
+There are perhaps billions of videos online, and finding a video that is similar to another is quite a task.  For example, say you want a cat video that only takes place during the sunset, finding something like this in a large list of videos would be quite difficult.
 
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+This video classifier project was an experiment in order to try to find a way to solve this issue.  It takes a video to look for, and then a group of videos to search.  Then, it looks through the group of videos to find ones closest to the video to look for.
 
-### Solution
+To accomplish this, the program uses a convolutional neural network.
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+If you would like to take a look at the experiment's code, click this link to go to its github [repo](https://github.com/gvan-0110/vidclass)!
